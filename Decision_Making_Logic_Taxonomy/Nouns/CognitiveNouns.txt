@@ -1,0 +1,12 @@
+﻿
+management
+CAB
+measure
+risk
+impact
+serverfarm
+PSO
+infrastructure
+downtime
+
+

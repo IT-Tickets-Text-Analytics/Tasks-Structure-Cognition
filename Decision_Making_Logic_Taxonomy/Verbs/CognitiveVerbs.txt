@@ -1,0 +1,7 @@
+﻿
+propose
+delegate
+freeze
+approve
+define
+

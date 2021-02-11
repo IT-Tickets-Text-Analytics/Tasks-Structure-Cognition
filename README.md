@@ -3,7 +3,7 @@ Under the task cognition aspect, we understand categorizing tasks into routine, 
 
 This repository contains the following files: Decision Making Logic (DML) taxonomy, python file for identifying the DML keywords (as an input for python file serve tasks textual desciptions and DML taxonomy), excel file with the motivating example, threshold rules, and illustrative DML vocabulary (as an input for excel file serve threshold rules).
 
-Below, we describe the main stages of #Step 2. Structure and Cognition Aspect Extraction. 
+Below, we describe the main stages of Step 2. Structure and Cognition Aspect Extraction. 
 
 Python code:
 STAGE 1. DML taxonomy (RTCC) reading and stemming.

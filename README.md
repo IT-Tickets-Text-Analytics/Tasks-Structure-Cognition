@@ -5,13 +5,13 @@ This repository contains the following files: Decision Making Logic (DML) taxono
 
 Below, we describe the main stages of Step 2. Structure and Cognition Aspect Extraction. 
 
-Python code:
+Python code (Structure_Cognition_Extraction.py):
 STAGE 1. DML taxonomy (RTCC) reading and stemming.
 STAGE 2. Tasks corpus reading, preprocessing and English language filtering.
 STAGE 3. Find and count words in the task text that match the DML taxonomy keywords.
 STAGE 4. Writing of the matched words and their number in the *.csv file.
 
-Excel *.csv file computing:
+Excel *.csv file computing (Structure_Cognition_Calculation.xlsx):
 STAGE 5. Structure aspects identification.
 STAGE 6. Calculation of the relative occurrence of the keywords of each category.
 STAGE 7. DML level identification.
